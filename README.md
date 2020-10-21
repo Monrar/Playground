@@ -1,4 +1,11 @@
-# ChatPlays
+# Playground
+
+Dies ist eine rudimentäre erste Version, welche nicht perfekt ist. 
+
+Zukünftige Updates beinhalten:
+- Support für Windows
+- Support für weitere Emulatoren
+- Code optimierungen wie beispielsweise das Auslagern von Konfigurationen in ein eigenes File
 Derzeit funktioniert die Anwendung nur auf Unix mit dem Emulator "VisualBoyAdvance"
 
 ## Benötigt 
