@@ -1,6 +1,6 @@
 # Playground
 
-Dies ist eine rudimentäre erste Version, welche nicht perfekt ist. 
+Dies ist eine rudimentäre erste Version, welche nicht perfekt ist und bisher nur auf Unix läuft. 
 
 Zukünftige Updates beinhalten:
 - Support für Windows
